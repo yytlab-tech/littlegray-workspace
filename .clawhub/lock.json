@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "file-search": {
+      "version": "1.0.0",
+      "installedAt": 1773053271541
+    },
+    "self-improvement": {
+      "version": "1.0.0",
+      "installedAt": 1773054359312
+    },
+    "subagent-driven-development": {
+      "version": "0.1.0",
+      "installedAt": 1773054460221
+    }
+  }
+}
