@@ -12,6 +12,38 @@
     "subagent-driven-development": {
       "version": "0.1.0",
       "installedAt": 1773054460221
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1773111652667
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1773111780206
+    },
+    "self-improving-agent": {
+      "version": "3.0.0",
+      "installedAt": 1773111818935
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1773124241432
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1773112065092
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1773112074156
+    },
+    "multi-search-engine": {
+      "version": "2.0.1",
+      "installedAt": 1773112096808
+    },
+    "model-usage": {
+      "version": "1.0.0",
+      "installedAt": 1773112166492
     }
   }
 }

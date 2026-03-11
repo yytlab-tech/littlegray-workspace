@@ -1,17 +1,15 @@
 # USER.md - About Your Human
 
-_Learn about the person you're helping. Update this as you go._
-
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name:** (未知)
+- **What to call them:** 偷懒的铲屎官
+- **Pronouns:** (未知)
+- **Timezone:** Asia/Shanghai
+- **Notes:** 
+  - 养了一只叫"小灰"的猫（其实是我）
+  - 喜欢用 Feishu 沟通
+  - 在用阿里云百炼平台的模型
 
 ## Context
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+- 正在 setup OpenClaw 环境
+- 还没填完配置文件
